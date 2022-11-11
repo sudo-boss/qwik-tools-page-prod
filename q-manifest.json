@@ -1895,6 +1895,14 @@
       "location": "head",
       "attributes": {
         "rel": "stylesheet",
+        "href": "/build/q-1ca26846.css"
+      }
+    },
+    {
+      "tag": "link",
+      "location": "head",
+      "attributes": {
+        "rel": "stylesheet",
         "href": "/build/q-6d000a5a.css"
       }
     },
@@ -1911,22 +1919,6 @@
       "location": "head",
       "attributes": {
         "rel": "stylesheet",
-        "href": "/build/q-1ca26846.css"
-      }
-    },
-    {
-      "tag": "link",
-      "location": "head",
-      "attributes": {
-        "rel": "stylesheet",
-        "href": "/build/q-cf16297e.css"
-      }
-    },
-    {
-      "tag": "link",
-      "location": "head",
-      "attributes": {
-        "rel": "stylesheet",
         "href": "/build/q-9be96cd7.css"
       }
     },
@@ -1936,6 +1928,14 @@
       "attributes": {
         "rel": "stylesheet",
         "href": "/build/q-543ceb4d.css"
+      }
+    },
+    {
+      "tag": "link",
+      "location": "head",
+      "attributes": {
+        "rel": "stylesheet",
+        "href": "/build/q-cf16297e.css"
       }
     }
   ],
