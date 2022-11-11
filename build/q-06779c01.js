@@ -1,0 +1,1 @@
+import{X as e,b as a}from"./q-a70b613d.js";const s=()=>e(a,{children:e("div",{class:"DebugEx",children:e("p",{children:"Debug se utiliza para identificar las \xE1reas en las que est\xE1s trabajando, sin necesidad de utilizar un background-color en Css"})})});export{s as s_z80om0tQ4xY};
