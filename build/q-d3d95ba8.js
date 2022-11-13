@@ -1,0 +1,1 @@
+import{X as s,b as i}from"./q-21911174.js";import{t as r}from"./q-56e5168c.js";const n=()=>s(i,{children:s("div",{class:"ExplanationsBasicUsage",children:s("p",{children:r.pages.ResponsiveGrid.pBasic})})});export{n as s_0S30nxqtlqU};

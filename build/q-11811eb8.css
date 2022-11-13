@@ -1,0 +1,1 @@
+.donations{display:flex;justify-content:center;align-items:center}.donations a{text-decoration:none;color:var(--qwik-light);font-weight:25px}.donations .heart{width:300px}.donations .paypal{width:350px}.donations .stripe{width:300px}.donations-options a{color:var(--qwik-dark-purple);font-size:35px}

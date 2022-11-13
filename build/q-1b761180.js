@@ -1,0 +1,1 @@
+import{m as o,u as e,_ as s}from"./q-21911174.js";const i=o(e(()=>s(()=>import("./q-64ba1472.js"),["build/q-64ba1472.js","build/q-21911174.js","build/q-91da5389.css"]),"s_VSsKRNvPo7M")),_={title:"Forge Qwik tools | Responsive Grid System"};export{i as default,_ as head};
