@@ -1903,7 +1903,7 @@
       "location": "head",
       "attributes": {
         "rel": "stylesheet",
-        "href": "/build/q-52c40de9.css"
+        "href": "/build/q-9be96cd7.css"
       }
     },
     {
@@ -1919,15 +1919,7 @@
       "location": "head",
       "attributes": {
         "rel": "stylesheet",
-        "href": "/build/q-9be96cd7.css"
-      }
-    },
-    {
-      "tag": "link",
-      "location": "head",
-      "attributes": {
-        "rel": "stylesheet",
-        "href": "/build/q-543ceb4d.css"
+        "href": "/build/q-52c40de9.css"
       }
     },
     {
@@ -1936,6 +1928,14 @@
       "attributes": {
         "rel": "stylesheet",
         "href": "/build/q-cf16297e.css"
+      }
+    },
+    {
+      "tag": "link",
+      "location": "head",
+      "attributes": {
+        "rel": "stylesheet",
+        "href": "/build/q-543ceb4d.css"
       }
     }
   ],
