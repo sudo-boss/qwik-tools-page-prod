@@ -1,0 +1,1 @@
+import{X as e,b as o}from"./q-ff5bf5d1.js";const n=()=>e(o,{children:e("div",{class:"ExplanationsBasicUsage",children:e("p",{children:["Puedes crear un sistema de Grid basico mediante el uso de un conjunto \xFAnico de ensamblaje de Row y Col, todas las columnas (Col) deben colocarse en fila (Row). ",e("br",{}),"Por ejemplo:"]})})});export{n as s_0S30nxqtlqU};
