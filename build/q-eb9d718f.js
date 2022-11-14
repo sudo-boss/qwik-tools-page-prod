@@ -1,0 +1,1 @@
+import{X as s,b as r}from"./q-2fd2ca49.js";import{t as i}from"./q-56e5168c.js";const t=()=>s(r,{children:s("div",{class:"AlignsElementsExplanation",children:s("p",{children:i.pages.ResponsiveGrid.pAligns})})});export{t as s_vFNPv3rorHk};
