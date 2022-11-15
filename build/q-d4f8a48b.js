@@ -1,0 +1,1 @@
+import{m as o,u as t,_ as s}from"./q-48a10e53.js";const _=o(t(()=>s(()=>import("./q-62085b60.js"),["build/q-62085b60.js","build/q-48a10e53.js","build/q-91da5389.css"]),"s_kFln4MsQWpk")),a={title:"Forge Qwik tools | Contact us"};export{_ as default,a as head};

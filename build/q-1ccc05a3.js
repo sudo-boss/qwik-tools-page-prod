@@ -1,0 +1,1 @@
+import{m as o,u as t,_ as e}from"./q-48a10e53.js";const a=o(t(()=>e(()=>import("./q-bfd20284.js"),["build/q-bfd20284.js","build/q-48a10e53.js","build/q-91da5389.css"]),"s_qMC3lx4vI5o")),_={title:"Forge Qwik tools | Qwik Global state system"};export{a as default,_ as head};

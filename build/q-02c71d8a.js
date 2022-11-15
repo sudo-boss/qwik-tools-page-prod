@@ -1,0 +1,1 @@
+import{X as e,b as r}from"./q-48a10e53.js";import{t as s}from"./q-6a839407.js";const o=()=>e(r,{children:e("div",{class:"DebugEx",children:e("p",{children:s.pages.ResponsiveGrid.pDebug})})});export{o as s_z80om0tQ4xY};
