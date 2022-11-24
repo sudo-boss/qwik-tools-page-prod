@@ -1,0 +1,1 @@
+import{X as e}from"./q-3a4e11fc.js";import{t as p}from"./q-2fde3242.js";const r=()=>e("div",{class:"Explanations",children:[e("p",{children:p.pages.ResponsiveGrid.p}),e("p",{children:p.pages.ResponsiveGrid.p2}),e("p",{children:p.pages.ResponsiveGrid.p3}),e("p",{children:p.pages.ResponsiveGrid.p4}),e("p",{children:p.pages.ResponsiveGrid.p5})]});export{r as s_CllCjPEctzY};
