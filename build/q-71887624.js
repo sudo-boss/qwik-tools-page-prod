@@ -1,0 +1,1 @@
+import{X as s}from"./q-ad35e21e.js";import{t as e}from"./q-2fde3242.js";const r=()=>s("div",{className:"Responsive",children:s("p",{children:e.pages.ResponsiveGrid.pResponsive})});export{r as s_XYhnpKgEy9A};
